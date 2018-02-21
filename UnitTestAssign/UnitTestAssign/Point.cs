@@ -60,7 +60,7 @@ namespace PointLib
             // given to one decimal place
             public String toString()
             {
-                return "";
+                return "("+x+","+y+")"; //done by jbizzle
             }
 
             // returns true if the distance of the point to (0,0) is closer than from
