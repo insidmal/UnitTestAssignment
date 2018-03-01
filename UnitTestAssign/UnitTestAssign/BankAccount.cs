@@ -22,7 +22,7 @@ namespace BankLib
 
         public int getBalance()
         {
-            return 0;
+            return balance;
         }
 
         // Withdraws money from account.  
