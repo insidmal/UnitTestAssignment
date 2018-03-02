@@ -41,7 +41,11 @@ namespace PointLib
             // always be non-negative.
             public double distance(Point other)
             {
-                return 0;
+                double y = getY();
+                double x = getX();
+                double f = (double)(x - other.getX());
+                double s = (double)(y - other.getY());
+                return Math.Sqrt(f * f + s * s);
             }
 
             // Rotates the point counter-clockwise by deg degrees.  For example, applying
@@ -74,7 +78,13 @@ namespace PointLib
             // other to (0,0), false otherwise.
             public static bool operator >(Point p1, Point p2)
             {
+                
+                if (p1.getX() > p2.getX() && p1.getY() > p2.getY())
+                {
                 return true;
+                }
+                return false;
+                
             }
         }
 }

@@ -10,10 +10,10 @@ namespace UnitTestAssign.Tests
     class BankAccountTests
     {
         [TestMethod]
-        public void TestGetBalance()
+        public void TestDeposit()
         {
-            BankAccount b = new BankAccount(200);
-            Assert.AreEqual(200, b.getBalance());
+            BankAccount b = new BankAccount(20);
+            Assert.IsTrue(b.deposit(10));
         }
     }
 }
