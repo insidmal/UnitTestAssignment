@@ -1,0 +1,9 @@
+C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestAssign\bin\Debug\netcoreapp2.0\UnitTestAssign.deps.json
+C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestAssign\bin\Debug\netcoreapp2.0\UnitTestAssign.dll
+C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestAssign\bin\Debug\netcoreapp2.0\UnitTestAssign.pdb
+C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestAssign\obj\Debug\netcoreapp2.0\UnitTestAssign.csprojResolveAssemblyReference.cache
+C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestAssign\obj\Debug\netcoreapp2.0\UnitTestAssign.csproj.CoreCompileInputs.cache
+C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestAssign\obj\Debug\netcoreapp2.0\UnitTestAssign.AssemblyInfoInputs.cache
+C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestAssign\obj\Debug\netcoreapp2.0\UnitTestAssign.AssemblyInfo.cs
+C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestAssign\obj\Debug\netcoreapp2.0\UnitTestAssign.dll
+C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestAssign\obj\Debug\netcoreapp2.0\UnitTestAssign.pdb
