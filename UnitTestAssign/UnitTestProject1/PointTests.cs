@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using PointLib;
 
 namespace UnitTestAssign.Tests
 {
@@ -12,6 +13,9 @@ namespace UnitTestAssign.Tests
         [TestMethod]
         public void TestPointConstructor()
         {
+            Point p = new Point();
+            Assert.AreEqual(0,p.getX());
+            Assert.AreEqual(0, p.getY());
         }
 
         [TestMethod]
@@ -31,7 +35,11 @@ namespace UnitTestAssign.Tests
 
         [TestMethod]
         public void TestStretch()
-        { 
+        {
+            Point p = new Point(2, 3);
+            Assert.AreEqual(6, p.getX());
+            Assert.AreEqual(9, p.getY());
+
         }
 
         [TestMethod]

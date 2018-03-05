@@ -34,7 +34,8 @@ namespace PointLib
             // should yield (6,9).  Only non-negative scale values should be allowed.
             public void stretch(double scale)
             {
-
+            x = x * scale;
+            y = y * scale;
             }
 
             // calculates the stright-line distance between two points.  The value should
