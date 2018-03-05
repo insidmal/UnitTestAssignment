@@ -1,0 +1,16 @@
+C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestProject1\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestAssign.Tests.deps.json
+C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestAssign.Tests.runtimeconfig.json
+C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestAssign.Tests.runtimeconfig.dev.json
+C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestAssign.Tests.dll
+C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestAssign.Tests.pdb
+C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestAssign.dll
+C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestProject1\bin\Debug\netcoreapp2.0\UnitTestAssign.pdb
+C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestAssign.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestAssign.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestAssign.Tests.AssemblyInfoInputs.cache
+C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestAssign.Tests.AssemblyInfo.cs
+C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestAssign.Tests.dll
+C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestProject1\obj\Debug\netcoreapp2.0\UnitTestAssign.Tests.pdb
