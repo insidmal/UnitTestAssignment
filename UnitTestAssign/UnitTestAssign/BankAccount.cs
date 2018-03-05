@@ -35,7 +35,16 @@ namespace BankLib
         // Deposits amt into acocunt.  Returns true is operation successful, false otherwise.
         public bool deposit(int amt)
         {
-            return true;
+            int oldBalance = balance;
+            int depositBalance = amt + balance;
+            if (oldBalance != depositBalance)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
     }
 }
