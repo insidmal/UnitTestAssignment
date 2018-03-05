@@ -8,16 +8,16 @@ namespace BankLib
 {
     public class BankAccount
     {
-        private int balance;
+        private double balance;
 
         public BankAccount()
         {
-
+            balance = 0;
         }
 
         public BankAccount(int startBal)
         {
-
+            balance = startBal;
         }
 
         public int getBalance()
@@ -29,22 +29,24 @@ namespace BankLib
         // Return true if withdrawl successful, false if amt is negative or would overdraw account (do not perform transaction in those cases)
         public bool withdraw(int amt)
         {
-            return true;
+            if (amt >= 0  && amt<balance)
+            {
+                balance = balance - amt;
+                return true;
+            }
+            else
+                return false;
         }
 
         // Deposits amt into acocunt.  Returns true is operation successful, false otherwise.
         public bool deposit(int amt)
         {
-            int oldBalance = balance;
-            int depositBalance = amt + balance;
-            if (oldBalance != depositBalance)
-            {
+            int initBal = balance;
+            balance = balance + amt;
+            if (initBal != balance)
                 return true;
-            }
             else
-            {
                 return false;
-            }
         }
     }
 }

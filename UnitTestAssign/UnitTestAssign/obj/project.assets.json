@@ -664,7 +664,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Cody Connor\\.nuget\\packages\\": {},
+    "C:\\Users\\insid\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -673,18 +674,20 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cody Connor\\Documents\\GitHub\\UnitTestAssignment\\UnitTestAssign\\UnitTestAssign\\UnitTestAssign.csproj",
+      "projectUniqueName": "C:\\Users\\insid\\Dropbox\\Documents\\CS246\\Unit Test Assignment\\UnitTestAssignment\\UnitTestAssign\\UnitTestAssign\\UnitTestAssign.csproj",
       "projectName": "UnitTestAssign",
-      "projectPath": "C:\\Users\\Cody Connor\\Documents\\GitHub\\UnitTestAssignment\\UnitTestAssign\\UnitTestAssign\\UnitTestAssign.csproj",
-      "packagesPath": "C:\\Users\\Cody Connor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cody Connor\\Documents\\GitHub\\UnitTestAssignment\\UnitTestAssign\\UnitTestAssign\\obj\\",
+      "projectPath": "C:\\Users\\insid\\Dropbox\\Documents\\CS246\\Unit Test Assignment\\UnitTestAssignment\\UnitTestAssign\\UnitTestAssign\\UnitTestAssign.csproj",
+      "packagesPath": "C:\\Users\\insid\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\insid\\Dropbox\\Documents\\CS246\\Unit Test Assignment\\UnitTestAssignment\\UnitTestAssign\\UnitTestAssign\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Cody Connor\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\insid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"

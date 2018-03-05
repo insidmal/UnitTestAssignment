@@ -7,3 +7,12 @@ C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestAssig
 C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestAssign\obj\Debug\netcoreapp2.0\UnitTestAssign.AssemblyInfo.cs
 C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestAssign\obj\Debug\netcoreapp2.0\UnitTestAssign.dll
 C:\Users\Khawla\Documents\GitHub\UnitTestAssignment\UnitTestAssign\UnitTestAssign\obj\Debug\netcoreapp2.0\UnitTestAssign.pdb
+C:\Users\insid\Dropbox\Documents\CS246\Unit Test Assignment\UnitTestAssignment\UnitTestAssign\UnitTestAssign\bin\Debug\netcoreapp2.0\UnitTestAssign.deps.json
+C:\Users\insid\Dropbox\Documents\CS246\Unit Test Assignment\UnitTestAssignment\UnitTestAssign\UnitTestAssign\bin\Debug\netcoreapp2.0\UnitTestAssign.dll
+C:\Users\insid\Dropbox\Documents\CS246\Unit Test Assignment\UnitTestAssignment\UnitTestAssign\UnitTestAssign\bin\Debug\netcoreapp2.0\UnitTestAssign.pdb
+C:\Users\insid\Dropbox\Documents\CS246\Unit Test Assignment\UnitTestAssignment\UnitTestAssign\UnitTestAssign\obj\Debug\netcoreapp2.0\UnitTestAssign.csprojResolveAssemblyReference.cache
+C:\Users\insid\Dropbox\Documents\CS246\Unit Test Assignment\UnitTestAssignment\UnitTestAssign\UnitTestAssign\obj\Debug\netcoreapp2.0\UnitTestAssign.csproj.CoreCompileInputs.cache
+C:\Users\insid\Dropbox\Documents\CS246\Unit Test Assignment\UnitTestAssignment\UnitTestAssign\UnitTestAssign\obj\Debug\netcoreapp2.0\UnitTestAssign.AssemblyInfoInputs.cache
+C:\Users\insid\Dropbox\Documents\CS246\Unit Test Assignment\UnitTestAssignment\UnitTestAssign\UnitTestAssign\obj\Debug\netcoreapp2.0\UnitTestAssign.AssemblyInfo.cs
+C:\Users\insid\Dropbox\Documents\CS246\Unit Test Assignment\UnitTestAssignment\UnitTestAssign\UnitTestAssign\obj\Debug\netcoreapp2.0\UnitTestAssign.dll
+C:\Users\insid\Dropbox\Documents\CS246\Unit Test Assignment\UnitTestAssignment\UnitTestAssign\UnitTestAssign\obj\Debug\netcoreapp2.0\UnitTestAssign.pdb
